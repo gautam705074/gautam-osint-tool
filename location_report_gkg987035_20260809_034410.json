@@ -1,0 +1,64 @@
+{
+  "email": "gkg987035@gmail.com",
+  "username": "gkg987035",
+  "domain": "gmail.com",
+  "timestamp": "2026-08-09T03:43:10.810605",
+  "valid": true,
+  "domain_info": {
+    "A": [
+      "142.250.182.229"
+    ],
+    "MX": [
+      "40 alt4.gmail-smtp-in.l.google.com.",
+      "30 alt3.gmail-smtp-in.l.google.com.",
+      "10 alt1.gmail-smtp-in.l.google.com.",
+      "20 alt2.gmail-smtp-in.l.google.com.",
+      "5 gmail-smtp-in.l.google.com."
+    ],
+    "NS": [
+      "ns3.google.com.",
+      "ns1.google.com.",
+      "ns4.google.com.",
+      "ns2.google.com."
+    ]
+  },
+  "social_media": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/gkg987035"
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://reddit.com/user/gkg987035"
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://pinterest.com/gkg987035"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/gkg987035"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/gkg987035"
+    },
+    {
+      "platform": "Twitch",
+      "url": "https://twitch.tv/gkg987035"
+    }
+  ],
+  "location": {
+    "ip": "142.250.182.229",
+    "city": "Delhi",
+    "region": "Delhi",
+    "country": "IN",
+    "timezone": "Asia/Kolkata",
+    "org": "AS15169 Google LLC",
+    "source": "IP Geolocation"
+  },
+  "breaches": [],
+  "gravatar": null,
+  "profile_photos": [],
+  "summary": {}
+}

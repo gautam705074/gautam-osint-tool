@@ -1,0 +1,116 @@
+{
+  "email": "gkg987035@gmail.com",
+  "username": "gkg987035",
+  "domain": "gmail.com",
+  "timestamp": "2026-08-09T03:36:07.262966",
+  "valid": true,
+  "domain_info": {
+    "A": [
+      "142.250.118.83",
+      "142.250.118.19",
+      "142.250.118.18",
+      "142.250.118.17"
+    ],
+    "MX": [
+      "30 alt3.gmail-smtp-in.l.google.com.",
+      "10 alt1.gmail-smtp-in.l.google.com.",
+      "20 alt2.gmail-smtp-in.l.google.com.",
+      "5 gmail-smtp-in.l.google.com.",
+      "40 alt4.gmail-smtp-in.l.google.com."
+    ],
+    "NS": [
+      "ns3.google.com.",
+      "ns1.google.com.",
+      "ns4.google.com.",
+      "ns2.google.com."
+    ],
+    "TXT": [
+      "\"v=spf1 redirect=_spf.google.com\"",
+      "\"yahoo-verification-key=+eZwIPSgRxkAUzDtqT8Qhk+j4A1JF6V/wtGoyGTkELY=\"",
+      "\"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=\"",
+      "\"yahoo-verification-key=dKYwfVbaxatmcXiXy6LDAxMRirqpOq5tj98iJv9qWVk=\""
+    ]
+  },
+  "social_media": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/gkg987035"
+    },
+    {
+      "platform": "reddit",
+      "url": "https://www.reddit.com/gkg987035"
+    },
+    {
+      "platform": "pinterest",
+      "url": "https://www.pinterest.com/gkg987035"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/gkg987035"
+    }
+  ],
+  "breaches": [],
+  "location": {
+    "ip": "42.106.139.204",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "country": "IN",
+    "org": "AS38266 Vodafone Idea Ltd"
+  },
+  "gravatar": null,
+  "phone_numbers": [
+    {
+      "source": "Google Search",
+      "found": true
+    },
+    {
+      "source": "facebook",
+      "found": true
+    }
+  ],
+  "profile_photos": [
+    {
+      "source": "Twitter",
+      "url": "https://twitter.com/gkg987035/profile_image"
+    }
+  ],
+  "linked_accounts": [
+    {
+      "service": "Amazon",
+      "url": "https://www.amazon.com/gp/profile/gkg987035",
+      "possible": true
+    },
+    {
+      "service": "Spotify",
+      "url": "https://open.spotify.com/user/gkg987035",
+      "possible": true
+    },
+    {
+      "service": "Netflix",
+      "url": "https://www.netflix.com/",
+      "possible": true
+    },
+    {
+      "service": "Adobe",
+      "url": "https://www.adobe.com/",
+      "possible": true
+    },
+    {
+      "service": "Apple",
+      "url": "https://appleid.apple.com/",
+      "possible": true
+    },
+    {
+      "service": "Microsoft",
+      "url": "https://account.microsoft.com/",
+      "possible": true
+    }
+  ],
+  "dark_web": [],
+  "ip_addresses": [
+    "42.106.139.204"
+  ],
+  "company_info": {},
+  "email_header": {},
+  "summary": {}
+}

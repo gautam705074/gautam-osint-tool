@@ -1,0 +1,93 @@
+{
+  "email": "gkg987035@gmail.com",
+  "username": "gkg987035",
+  "domain": "gmail.com",
+  "timestamp": "2026-08-09T03:38:59.222723",
+  "valid": true,
+  "domain_info": {
+    "A": [
+      "142.250.118.19",
+      "142.250.118.18",
+      "142.250.118.17",
+      "142.250.118.83"
+    ],
+    "MX": [
+      "20 alt2.gmail-smtp-in.l.google.com.",
+      "30 alt3.gmail-smtp-in.l.google.com.",
+      "5 gmail-smtp-in.l.google.com.",
+      "10 alt1.gmail-smtp-in.l.google.com.",
+      "40 alt4.gmail-smtp-in.l.google.com."
+    ],
+    "NS": [
+      "ns4.google.com.",
+      "ns2.google.com.",
+      "ns3.google.com.",
+      "ns1.google.com."
+    ]
+  },
+  "social_media": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://reddit.com/user/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://pinterest.com/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Discord",
+      "url": "https://discord.com/users/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Twitch",
+      "url": "https://twitch.tv/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/gkg987035",
+      "status": "Found"
+    },
+    {
+      "platform": "Imgur",
+      "url": "https://imgur.com/user/gkg987035",
+      "status": "Found"
+    }
+  ],
+  "breaches": [],
+  "location": {
+    "ip": "42.106.139.204",
+    "city": "Kolkata",
+    "region": "West Bengal",
+    "country": "IN",
+    "org": "AS38266 Vodafone Idea Ltd"
+  },
+  "gravatar": null,
+  "profile_photos": [],
+  "phone_numbers": [
+    {
+      "source": "Facebook",
+      "found": true
+    }
+  ],
+  "linked_accounts": [],
+  "summary": {}
+}
